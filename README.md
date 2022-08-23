@@ -1,2 +1,1 @@
-# standard-takeover
-Mastering gits
+# Git-module
